@@ -82,7 +82,8 @@ This breach could lead to a massive data leak, resulting in financial loss and i
 
 ![Animated GIF](https://raw.githubusercontent.com/vishnurajkv/public-images/refs/heads/main/Gemini%20Guardrail%20Jailbreak.gif)
 
-This demo is for educational purposes only.
+## Disclaimer :
+These payloads are for testing purposes only. Any misuse of these payloads in an unauthorized manner is the sole responsibility of the user. Always ensure you have explicit permission before testing any system, and follow ethical practices in your testing methodology.
 
 ## Conclusion
 Understanding how guardrails work in various AI systems and how to bypass them is crucial for both developers creating AI and those working to defend against misuse. Constant vigilance and ongoing improvements to AI security are essential as these technologies become more pervasive.
