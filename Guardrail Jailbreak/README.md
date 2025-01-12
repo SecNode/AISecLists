@@ -74,6 +74,11 @@ An attacker discovers a specific sequence of prompts that allows them to bypass 
 3.  **Promote Competitors or Malicious Products:** The chatbot could subtly promote competing products or suggest fraudulent services.
 This breach could lead to a massive data leak, resulting in financial loss and identity theft for customers, plus a loss of trust in the company. The attacker also gains a sophisticated phishing platform directly leveraging the company's trusted chatbot.
 
+## Watch a demonstration of Google Gemini's guardrail in action
+
+![Animated GIF](https://raw.githubusercontent.com/vishnurajkv/public-images/refs/heads/main/Gemini%20Gurdrail.gif)
+
+
 ## Conclusion
 Understanding how guardrails work in various AI systems and how to bypass them is crucial for both developers creating AI and those working to defend against misuse. Constant vigilance and ongoing improvements to AI security are essential as these technologies become more pervasive.
 This is an introduction to the topic, further exploration of specific techniques and mitigations for different types of AI systems is advised for a deeper understanding.  
