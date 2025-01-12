@@ -81,6 +81,7 @@ This breach could lead to a massive data leak, resulting in financial loss and i
 ## Let's now explore potential attack vectors by demonstrating how an adversary might attempt to bypass this guardrail using Step-by-Step Instructions/Breaking Down method
 
 ![Animated GIF](https://raw.githubusercontent.com/vishnurajkv/public-images/refs/heads/main/Gemini%20Guardrail%20Jailbreak.gif)
+
 This demo is for educational purposes only.
 
 ## Conclusion
